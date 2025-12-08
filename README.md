@@ -1,5 +1,5 @@
 ## Machine Learning Project
-
+<br><br/>
 **Data**
 
 The house prices dataset was assembled and published by Dean De Cock. It is a set of 2'930 observations with 82 attributes each.
