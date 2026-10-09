@@ -21,6 +21,6 @@ The tasks carried out in the project are divided into 8 sections:
 - Predicting on test data
 <br><br/>
 
-**Python Notebook**
+**Python code, results and visualisations**
 
 https://github.com/jelena-rota/machine-learning/blob/main/machine-learning.ipynb
